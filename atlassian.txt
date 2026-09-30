@@ -7,4 +7,4 @@
 ! Syntax: AdBlock
 
 ! Jira Recommended Apps
-atlassian.net##:matches-path(/jira/)[data-testid^='NAV4_app_/jira/marketplace/discover/']
+atlassian.net##[data-testid^='NAV4_app_/jira/marketplace/discover/']
