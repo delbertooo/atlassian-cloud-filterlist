@@ -3,7 +3,7 @@
 ! Description: A blocklist for Atlassian Cloud products adding ads to my paid products.
 ! Homepage: https://github.com/delbertooo/atlassian-cloud-filterlist
 ! Expires: 7 days (update frequency)
-! Version: 1.0.0
+! Version: 1.0.1
 ! Syntax: AdBlock
 
 ! Jira Recommended Apps
