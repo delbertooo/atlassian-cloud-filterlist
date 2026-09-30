@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: Atlassian Cloud Ads
+! Description: A blocklist for Atlassian Cloud products adding ads to my paid products.
+! Homepage: https://github.com/delbertooo/atlassian-cloud-filterlist
+! Expires: 7 days (update frequency)
+! Version: 1.0.0
+! Syntax: AdBlock
+
+! Jira Recommended Apps
+atlassian.net##:matches-path(/jira/)[data-testid^='NAV4_app_/jira/marketplace/discover/']
